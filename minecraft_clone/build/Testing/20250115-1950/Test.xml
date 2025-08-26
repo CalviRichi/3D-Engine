@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-c++"
+	BuildStamp="20250115-1950-Experimental"
+	Name="calvin-Nitro-AN515-54"
+	Generator="ctest-3.22.1"
+	CompilerName="/usr/bin/c++"
+	CompilerVersion="11.4.0"
+	OSName="Linux"
+	Hostname="calvin-Nitro-AN515-54"
+	OSRelease="6.8.0-51-generic"
+	OSVersion="#52~22.04.1-Ubuntu SMP PREEMPT_DYNAMIC Mon Dec  9 15:00:52 UTC 2"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="158"
+	ProcessorCacheSize="8192"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2047"
+	TotalPhysicalMemory="15834"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="2399.98"
+	>
+	<Testing>
+		<StartDateTime>Jan 15 11:50 PST</StartDateTime>
+		<StartTestTime>1736970637</StartTestTime>
+		<TestList/>
+		<EndDateTime>Jan 15 11:50 PST</EndDateTime>
+		<EndTestTime>1736970637</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

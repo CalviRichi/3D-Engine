@@ -1,0 +1,87 @@
+[
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/imgui.dir/src/vendor/imgui/imgui.cpp.o -c /home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/imgui.dir/src/vendor/imgui/imgui_demo.cpp.o -c /home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_demo.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_demo.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/imgui.dir/src/vendor/imgui/imgui_draw.cpp.o -c /home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_draw.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_draw.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/imgui.dir/src/vendor/imgui/imgui_impl_glfw.cpp.o -c /home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_impl_glfw.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_impl_glfw.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/imgui.dir/src/vendor/imgui/imgui_impl_opengl3.cpp.o -c /home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_impl_opengl3.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_impl_opengl3.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/imgui.dir/src/vendor/imgui/imgui_tables.cpp.o -c /home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_tables.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_tables.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/imgui.dir/src/vendor/imgui/imgui_widgets.cpp.o -c /home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_widgets.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/vendor/imgui/imgui_widgets.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/cc  -I/home/calvin/VS/minecraft_clone/glfw-windows/include -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/minecraft_clone.dir/src/glad.c.o -c /home/calvin/VS/minecraft_clone/src/glad.c",
+  "file": "/home/calvin/VS/minecraft_clone/src/glad.c"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/glfw-windows/include -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/minecraft_clone.dir/src/vendor/stb_image/stb_image.cpp.o -c /home/calvin/VS/minecraft_clone/src/vendor/stb_image/stb_image.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/vendor/stb_image/stb_image.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/glfw-windows/include -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/minecraft_clone.dir/src/texture.cpp.o -c /home/calvin/VS/minecraft_clone/src/texture.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/texture.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/glfw-windows/include -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/minecraft_clone.dir/src/commonInclude.cpp.o -c /home/calvin/VS/minecraft_clone/src/commonInclude.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/commonInclude.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/glfw-windows/include -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/minecraft_clone.dir/src/renderer.cpp.o -c /home/calvin/VS/minecraft_clone/src/renderer.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/renderer.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/glfw-windows/include -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/minecraft_clone.dir/src/shader.cpp.o -c /home/calvin/VS/minecraft_clone/src/shader.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/shader.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/glfw-windows/include -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/minecraft_clone.dir/src/indexBuffer.cpp.o -c /home/calvin/VS/minecraft_clone/src/indexBuffer.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/indexBuffer.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/glfw-windows/include -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/minecraft_clone.dir/src/vertexBuffer.cpp.o -c /home/calvin/VS/minecraft_clone/src/vertexBuffer.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/vertexBuffer.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/glfw-windows/include -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/minecraft_clone.dir/src/vertexArray.cpp.o -c /home/calvin/VS/minecraft_clone/src/vertexArray.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/vertexArray.cpp"
+},
+{
+  "directory": "/home/calvin/VS/minecraft_clone/build",
+  "command": "/usr/bin/c++  -I/home/calvin/VS/minecraft_clone/glfw-windows/include -I/home/calvin/VS/minecraft_clone/src/vendor/imgui -g -o CMakeFiles/minecraft_clone.dir/src/main.cpp.o -c /home/calvin/VS/minecraft_clone/src/main.cpp",
+  "file": "/home/calvin/VS/minecraft_clone/src/main.cpp"
+}
+]
